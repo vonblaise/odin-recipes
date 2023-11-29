@@ -1,19 +1,28 @@
 body{font-size: 22px;
 margin-left: 10%; margin-right: 10%;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
-background: papayawhip;
+background: powderblue;
 line-height: 1.5;
 }
 
-h1, h2 
-{
-    font-size: 32px;
-    color:red;
-
+h1
+{ text-align: center;
+    font-size: 45px;
+    color:red;  
+    font-family: Lucida;
+    border: 2px solid red;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: bisque;
+    padding: 50px;
  }
+
  p
  {color: green;}
 
+ h2
+ {  font-size: 24px;
+    color:peru;}
 
 
 
